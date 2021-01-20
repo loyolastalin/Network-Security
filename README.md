@@ -9,4 +9,4 @@
 ## MAN IN MIDDLE attcking tools
 
 - [Bettercap](https://github.com/bettercap/bettercap)
-- [arpspoor](https://www.javatpoint.com/arp-spoofing-using-arpspoof)
+- [arpspoof](https://www.javatpoint.com/arp-spoofing-using-arpspoof)
